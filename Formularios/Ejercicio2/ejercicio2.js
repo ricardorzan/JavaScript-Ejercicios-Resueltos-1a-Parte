@@ -1,5 +1,6 @@
-let a, b;
-a = 10;
-b = 5;
-resultado = a + b;
-alert('La suma de a+b es ${resultado}');
+function calcular() {
+    let num = document.fdatos.entrada.value
+    let num1 = parseFloat(dato1)
+    num1 = num1*0.10
+    document.writeln(`El 10% de ${num} es ${num1}`)
+}
