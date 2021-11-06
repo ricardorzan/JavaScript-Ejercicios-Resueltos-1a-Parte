@@ -1,0 +1,13 @@
+#contenedor {
+    position: relative;
+    background-color: #C0C0C0;
+}
+
+#globo {
+    background-color: #00AAFF;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 500px;
+    top: 500px;
+}
