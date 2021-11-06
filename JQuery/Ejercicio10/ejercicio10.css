@@ -1,0 +1,20 @@
+#contenedor {
+    position: relative;
+    background-color: #C0C0C0;
+}
+
+#cuadrado1 {
+    background-color: #00FF00;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 10px
+}
+
+#cuadrado2 {
+    background-color: #AA00FF;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 10px;
+}
